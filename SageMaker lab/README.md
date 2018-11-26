@@ -77,7 +77,7 @@ cd SageMaker/
 git clone https://github.com/mahendrabairagi/reInventWorkshop1.git
 ```
 
-Next, close the terminal tab and go back to the dashboard. You should see a new folder, "DeeplensWorkshop". 
+Next, close the terminal tab and go back to the dashboard. You should see a new folder, "reInventWorkshop1". 
 
 ![Alt text](https://user-images.githubusercontent.com/36491325/48434606-2fc68100-e748-11e8-98f4-e178de781c16.png)
 
